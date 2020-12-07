@@ -10,8 +10,8 @@
 
 ---
 
-### Мобильная интеграция 
-
-[Проект](https://github.com/Captainlomik/services/tree/main/Mobile)
+### [Мобильная интеграция](https://github.com/Captainlomik/services/tree/main/Mobile) 
+ 
+ [API](https://api.chucknorris.io/)
 
 * NativeScript + Angular 
