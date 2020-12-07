@@ -11,3 +11,7 @@
 ---
 
 ### Мобильная интеграция 
+
+[Проект](https://github.com/Captainlomik/services/tree/main/Mobile)
+
+* NativeScript + Angular 
